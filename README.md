@@ -14,7 +14,7 @@ The final `output2.xlsx` will contain different sheets for each scraped tourname
 
 ### Further Data Transformation
 
-To evaluate a betting strategy using simulation results from the EloMC R package (available [here](link)), additional transformations are required.
+To evaluate a betting strategy using simulation results from the EloMC R package (available [here]([link](https://github.com/SaveFonta/EloMC))), additional transformations are required.
 
 #### Final Structure Requirements
 
@@ -40,7 +40,7 @@ The final results should look like this:
 3. **Results Column**:
    - Type "WINNER" in the first row of the Results column for each sheet.
 
-After completing these steps, your `output2.xlsx` can be used with the `Extract_book` function of the EloMC package.
+After completing these steps, your `output2.xlsx` can be used with the `Results_betting` function of the EloMC package.
 
 ### Pre-Cleaned Data
 
