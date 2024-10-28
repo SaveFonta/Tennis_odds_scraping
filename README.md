@@ -62,6 +62,4 @@ The `scraping.py` script can be easily adjusted to fetch data for selected years
 
 ---
 
-Feel free to explore, adjust, and use this repository to support your tennis analytics and betting strategy evaluation needs.
-
 
