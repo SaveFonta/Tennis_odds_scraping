@@ -1,6 +1,6 @@
 import pandas as pd
 
-# Lista URL per ciascun torneo e anno
+# Lista URL per ciascun torneo e anno, for women, just change in each line "m&o" with "w&o"
 urls = {
     'Australian Open': [
         "https://www.sportsoddshistory.com/tennis-main/?y=2024&sa=tennis&x=m&a=aus&o=r",
